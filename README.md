@@ -155,5 +155,5 @@ npm start           # runs on port 3000
 
 ## Live Links
 
-- Frontend: _[Add after deployment]_
-- Backend: _[Add after deployment]_
+- Frontend: https://fsd47-conflict-system.vercel.app/login
+- Backend: https://fsd47-backend.onrender.com/
